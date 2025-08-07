@@ -1,4 +1,4 @@
-# Cloud Security Scenarios on OCI: Architecture in Action DEV
+# Cloud Security Scenarios on OCI: Architecture in Action
 
 This repository showcases practical, real-world Oracle Cloud Infrastructure (OCI) security architecture scenarios — crafted from the perspective of a cloud security engineer. Each scenario addresses challenges professionals face when designing secure, scalable, and cost-effective cloud environments in high-stakes enterprise settings.
 
