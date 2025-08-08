@@ -24,7 +24,7 @@
 ---
 
 ## Scenario  
-Design a cost-effective, scalable OCI infrastructure for a startup with minimal DevOps experience, a $10K/month budget, and a 90-day timeline to launch a data analytics platform. The focus is on balancing speed to market, cost control, and high availability.
+Design a secure, compliant data lake on OCI for a pharmaceutical client subject to HIPAA and GxP regulations. Ensure data encryption, IAM integration with Active Directory, and proactive security monitoring while avoiding overengineering.
 
 ---
 
